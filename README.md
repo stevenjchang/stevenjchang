@@ -1,4 +1,4 @@
-### Learn more about me 😄:
+### Learn more about me 💡:
 ### [stevenjchang.com](https://stevenjchang.com), [Resume](https://bit.ly/stevenjchang-resume), [LinkedIn](https://bit.ly/stevenjchang-linkedin)
 
 ---
