@@ -1,4 +1,4 @@
-#### Learn more about me 💡: [stevenjchang.com](https://stevenjchang.com), [Resume](https://bit.ly/stevenjchang-resume), [LinkedIn](https://bit.ly/stevenjchang-linkedin)
+#### Learn more about me: [stevenjchang.com](https://stevenjchang.com), [Resume](https://bit.ly/stevenjchang-resume), [LinkedIn](https://bit.ly/stevenjchang-linkedin)
 - #### [podcastcrush.com](https://podcastcrush.com) - where I talk about my favorite podcasts and episodes
 - #### [gettennisalerts.com](https://gettennisalerts.com) - where you can sign up for email alerts for your favorite tennis players
 
