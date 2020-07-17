@@ -1,7 +1,17 @@
-### Hi there 👋
+- Resume - [url](https://bit.ly/stevenjchang-resume)
+- LinkedIn - [url](https://bit.ly/stevenjchang-linkedin)
+
+### My homepage:
+- stevenjchang.com
+
+### Some fun projects I'm working on:
+
+- podcastcrush.com
+- gettennisalerts.com
 
 <!--
 **stevenjchang/stevenjchang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there 👋
 
 Here are some ideas to get you started:
 
