@@ -1,13 +1,11 @@
-- Resume - [url](https://bit.ly/stevenjchang-resume)
-- LinkedIn - [url](https://bit.ly/stevenjchang-linkedin)
-
 ### My homepage:
-- stevenjchang.com
+- ### [stevenjchang.com](https://stevenjchang.com), 
+- ### [Resume](https://bit.ly/stevenjchang-resume), 
+- ### [LinkedIn](https://bit.ly/stevenjchang-linkedin)
 
-### Some fun projects I'm working on:
-
-- podcastcrush.com
-- gettennisalerts.com
+### Some fun personal projects I'm working on:
+- ### [podcastcrush.com](https://podcastcrush.com) - where I talk about my favorite podcasts and episodes
+- ### [gettennisalerts.com](https://gettennisalerts.com) - where you can sign up for email alerts for your favorite tennis players
 
 <!--
 **stevenjchang/stevenjchang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
