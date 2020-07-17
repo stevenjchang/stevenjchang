@@ -1,6 +1,6 @@
-### Learn more about me 💡: [stevenjchang.com](https://stevenjchang.com), [Resume](https://bit.ly/stevenjchang-resume), [LinkedIn](https://bit.ly/stevenjchang-linkedin)
-- ### [podcastcrush.com](https://podcastcrush.com) - where I talk about my favorite podcasts and episodes
-- ### [gettennisalerts.com](https://gettennisalerts.com) - where you can sign up for email alerts for your favorite tennis players
+#### Learn more about me 💡: [stevenjchang.com](https://stevenjchang.com), [Resume](https://bit.ly/stevenjchang-resume), [LinkedIn](https://bit.ly/stevenjchang-linkedin)
+- #### [podcastcrush.com](https://podcastcrush.com) - where I talk about my favorite podcasts and episodes
+- #### [gettennisalerts.com](https://gettennisalerts.com) - where you can sign up for email alerts for your favorite tennis players
 
 <!--
 **stevenjchang/stevenjchang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
