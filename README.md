@@ -1,15 +1,15 @@
-#### Learn more about me: [stevenjchang.com](https://stevenjchang.com), [Resume](https://bit.ly/stevenjchang-resume), [LinkedIn](https://bit.ly/stevenjchang-linkedin) <img src="https://profile-counter.glitch.me/steve123uniquecounter/count.svg" />
+#### Learn more about me: [stevenjchang.com](https://stevenjchang.com), [Resume](https://bit.ly/stevenjchang-resume), [LinkedIn](https://bit.ly/stevenjchang-linkedin)
 - #### [podcastcrush.com](https://podcastcrush.com) - where I talk about my favorite podcasts and episodes
 - #### [gettennisalerts.com](https://gettennisalerts.com) - where you can sign up for email alerts for your favorite tennis players
 
-<!-- Tracking Visitor Counter -->
-<p align="center"> 
-<!--   Visitor count<br> -->
-<!--   <img src="https://profile-counter.glitch.me/steve123uniquecounter/count.svg" /> -->
-</p>
-
 <!-- Google Analytics tracking pixel -->
 <img src="https://www.google-analytics.com/collect?v=1&tid=UA-73381859-8&cid=555&t=event&ec=github&ea=view">
+
+<!-- Tracking Visitor Counter -->
+<div align="center">
+<!--   Visitor count<br> -->
+  <img src="https://profile-counter.glitch.me/steve123uniquecounter/count.svg" />
+</div>
 
 <!--
 **stevenjchang/stevenjchang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
