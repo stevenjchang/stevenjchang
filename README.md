@@ -1,11 +1,11 @@
-#### Learn more about me: [stevenjchang.com](https://stevenjchang.com), [Resume](https://bit.ly/stevenjchang-resume), [LinkedIn](https://bit.ly/stevenjchang-linkedin)
+#### Learn more about me: [stevenjchang.com](https://stevenjchang.com), [Resume](https://bit.ly/stevenjchang-resume), [LinkedIn](https://bit.ly/stevenjchang-linkedin) <img src="https://profile-counter.glitch.me/steve123uniquecounter/count.svg" />
 - #### [podcastcrush.com](https://podcastcrush.com) - where I talk about my favorite podcasts and episodes
 - #### [gettennisalerts.com](https://gettennisalerts.com) - where you can sign up for email alerts for your favorite tennis players
 
 <!-- Tracking Visitor Counter -->
 <p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/steve123uniquecounter/count.svg" />
+<!--   Visitor count<br> -->
+<!--   <img src="https://profile-counter.glitch.me/steve123uniquecounter/count.svg" /> -->
 </p>
 
 <!-- Google Analytics tracking pixel -->
