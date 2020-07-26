@@ -9,7 +9,7 @@
 </p>
 
 <!-- Google Analytics tracking pixel -->
-<img src="https://www.google-analytics.com/collect?v=1&tid=UA-73381859-8&cid=555&aip=1&t=event&ec=github&ea=view">
+<img src="https://www.google-analytics.com/collect?v=1&tid=UA-73381859-8&cid=555&t=event&ec=github&ea=view">
 
 <!--
 **stevenjchang/stevenjchang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
