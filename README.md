@@ -2,6 +2,15 @@
 - #### [podcastcrush.com](https://podcastcrush.com) - where I talk about my favorite podcasts and episodes
 - #### [gettennisalerts.com](https://gettennisalerts.com) - where you can sign up for email alerts for your favorite tennis players
 
+<!-- Tracking Visitor Counter -->
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/steve123uniquecounter/count.svg" />
+</p>
+
+<!-- Google Analytics tracking pixel -->
+<img src="https://www.google-analytics.com/collect?v=1&tid=UA-73381859-8&cid=555&t=testevent">
+
 <!--
 **stevenjchang/stevenjchang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Hi there 👋
@@ -17,8 +26,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/steve123uniquecounter/count.svg" />
-</p>
