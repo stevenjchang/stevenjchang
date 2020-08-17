@@ -1,4 +1,5 @@
 #### Learn more about me: [stevenjchang.com](https://stevenjchang.com), [Resume](https://bit.ly/stevenjchang-resume), [LinkedIn](https://bit.ly/stevenjchang-linkedin)
+- #### [guessthelinesyourself.com](https://guessthelinesyourself.com/) - For NFL Football fans, who pay attention of vegas betting lines
 - #### [podcastcrush.com](https://podcastcrush.com) - where I talk about my favorite podcasts and episodes
 - #### [gettennisalerts.com](https://gettennisalerts.com) - where you can sign up for email alerts for your favorite tennis players
 
