@@ -1,4 +1,4 @@
-#### To learn more about me, goto: &nbsp;&nbsp;&nbsp;[Resume](https://bit.ly/stevenjchang-resume) &nbsp;&nbsp;📝  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; [LinkedIn](https://bit.ly/stevenjchang-linkedin) &nbsp;&nbsp;💼 
+#### _To learn more about me, goto_: &nbsp;&nbsp;&nbsp;[Resume](https://bit.ly/stevenjchang-resume) &nbsp;&nbsp;📝  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; [LinkedIn](https://bit.ly/stevenjchang-linkedin) &nbsp;&nbsp;💼 
 
 I love tinkering and building things. I have a few passion projects I started to work on. Feel free to check them out:
 
