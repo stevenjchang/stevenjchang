@@ -2,9 +2,8 @@
 
 I love tinkering and building things. I have a few passion projects I started to work on. Feel free to check them out:
 
-- #### 🏈 [guessthelinesyourself.com](https://guessthelinesyourself.com/) - for NFL Football fans, who pay attention of vegas betting lines
-- #### 🎾 [gettennisalerts.com](https://gettennisalerts.com) - where you can sign up for email alerts for your favorite tennis players
-- #### 🎙️ [podcastcrush.com](https://podcastcrush.com) - where I talk about my favorite podcasts and episodes
+- #### 🏈 &nbsp; [guessthelinesyourself.com](https://guessthelinesyourself.com/) - for NFL Football fans, who pay attention of vegas betting lines
+- #### 🎙️ &nbsp; [podcastcrush.com](https://podcastcrush.com) - where I talk about my favorite podcasts and episodes
 
 <!-- Google Analytics tracking pixel -->
 <img src="https://www.google-analytics.com/collect?v=1&tid=UA-73381859-8&cid=555&t=event&ec=github&ea=view">
@@ -18,6 +17,8 @@ I love tinkering and building things. I have a few passion projects I started to
 <!--
 **stevenjchang/stevenjchang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Hi there 👋
+
+- #### 🎾  [gettennisalerts.com](https://gettennisalerts.com) - where you can sign up for email alerts for your favorite tennis players
 
 Here are some ideas to get you started:
 
