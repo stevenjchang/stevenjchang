@@ -7,9 +7,8 @@
 - [**linkedIn**](https://bit.ly/stevenjchang-linkedin) &nbsp;&nbsp;💼 
 
 I love tinkering and building things. I have a few small passion projects I started to work on. Feel free to check them out:
-
-- #### 🏈 &nbsp; [*guessthelinesyourself.com*](https://guessthelinesyourself.com/) - _for NFL Football fans, who pay attention of vegas betting lines_
 - #### 🎙️ &nbsp; [*podcastcrush.com*](https://podcastcrush.com) - _where I talk about my favorite podcasts and episodes_
+- #### 🏈 &nbsp; [*guessthelinesyourself.com*](https://guessthelinesyourself.com/) - _for NFL Football fans, who pay attention of vegas betting lines_
 - #### 🎾 &nbsp; [_*Get Tennis Alerts*_](https://gettennisalerts.com) - signup for match alerts. Subscribe to your favorite players. Never miss a match.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sub>(_NOTE: the Get Tennis Alerts project is currently on hold... I have removed the ability for new users to sign up_)</sub>
 
