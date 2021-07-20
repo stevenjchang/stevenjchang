@@ -2,7 +2,7 @@
 <h3 align="center">Frontend / Full-Stack Engineer</h3>
 
 #### _To learn more about me, goto_: &nbsp;&nbsp;&nbsp;
-- [**stevenjchang.com**](https://stevenjchang.com)
+
 - [**resume**](https://bit.ly/stevenjchang-resume) &nbsp;&nbsp;📝  
 - [**linkedIn**](https://bit.ly/stevenjchang-linkedin) &nbsp;&nbsp;💼 
 
