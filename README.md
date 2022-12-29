@@ -27,4 +27,6 @@ I love tinkering and building things. I have a few small passion projects I star
 - https://github.com/webdev0725/webdev0725 
 -->
 
-[![Steve's GitHub stats](https://github-readme-stats.vercel.app/api?username=stevenjchang)](https://github.com/anuraghazra/github-readme-stats)
+<br />
+</br />
+[![Steve's GitHub stats](https://github-readme-stats.vercel.app/api?username=stevenjchang&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
