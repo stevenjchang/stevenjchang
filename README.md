@@ -58,7 +58,7 @@ I love tinkering and building things. I have a few small passion projects I star
 
 <!-- Tracking Visitor Counter pixel-->
 <div align="center">
-  <img src="https://profile-counter.glitch.me/steve123uniquecounter/count.svg" />
+  <!-- <img src="https://profile-counter.glitch.me/steve123uniquecounter/count.svg" /> -->
 </div>
 
 <!--
